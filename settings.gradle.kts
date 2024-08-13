@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Test Compose Performance"
-include(":thousand_views")
+rootProject.name = "Android Two Thousand Views"
+include(":app")

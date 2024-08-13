@@ -1,4 +1,4 @@
-package tech.sanjaydev.test.compose.thviews.ui.theme
+package com.android.two_k_text.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

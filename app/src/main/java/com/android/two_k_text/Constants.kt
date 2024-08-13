@@ -1,4 +1,4 @@
-package tech.sanjaydev.test.compose.thviews
+package com.android.two_k_text
 
 val LONG_TEXT = """
 What is Lorem Ipsum?

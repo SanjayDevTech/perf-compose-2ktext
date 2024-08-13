@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "tech.sanjaydev.test.compose.thviews"
+    namespace = "com.android.two_k_text"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "tech.sanjaydev.test.compose.thviews"
+        applicationId = "com.android.two_k_text"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -50,8 +50,6 @@ android {
 
 composeCompiler {
     enableStrongSkippingMode = true
-
-    reportsDestination = layout.buildDirectory.dir("compose_compiler")
 }
 
 dependencies {

@@ -1,6 +1,5 @@
-package tech.sanjaydev.test.compose.thviews.ui.theme
+package com.android.two_k_text.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
