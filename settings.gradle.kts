@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Android Two Thousand Views"
+rootProject.name = "Android 2K Text"
 include(":app")
